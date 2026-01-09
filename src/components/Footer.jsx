@@ -19,7 +19,7 @@ export default function Footer() {
             <div className="flex flex-col">
                 <img src="/TT LogoTT Logo 1.png" alt="Tinytales" className="h-[51px] w-[65px] mb-2" />
             </div>
-            <p className="text-gray-300 text-sm leading-relaxed max-w-xs italic opacity-90">
+            <p className="text-gray-300 text-sm leading-relaxed max-w-xs  opacity-90">
               Ipsam in eos qui consequatur ab cum maxime.Soluta dolor quae Ipsam in eos qui consequatur ab .Soluta dolor quae Ipsam in eos quconsequatur ab cum maxime.Soluta dolor quae
             </p>
           </div>

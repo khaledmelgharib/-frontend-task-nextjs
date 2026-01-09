@@ -6,6 +6,7 @@ const reviewsData = [
   { id: 1, name: "Alex Daewn", date: "4 months ago", rating: 5, comment: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed" },
   { id: 2, name: "Alex Daewn", date: "4 months ago", rating: 5, comment: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed" },
   { id: 3, name: "Alex Daewn", date: "4 months ago", rating: 5, comment: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed" },
+  { id: 4, name: "Alex Daewn", date: "4 months ago", rating: 5, comment: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed" },
 ];
 
 export default function Reviews() {
