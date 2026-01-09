@@ -9,17 +9,21 @@ A Next.js project for a technical evaluation.
 
 ---
 
-### Main Features
+##  Features
 
-*   **Authentication Flow:**
+- **User Authentication:**
+ **Authentication Flow:**
     *   Full user cycle: `/register` → `/verify` → `/login` → `/dashboard`.
-
-*   **Pixel-Perfect UI Page:**
-    *   A responsive implementation of the Figma design.
-    *   **Accessible at:** `/ui-page`
-
-*   **Tech Stack:**
-    *   Built with Next.js, Tailwind CSS, and Axios.
+  - User registration with validation.
+  - Mock account verification (using code `123456`).
+  - Secure login and session management (JWT in `localStorage`).
+  - Protected dashboard route for authenticated users.
+  - User logout functionality.
+- **Pixel-Perfect UI Page:**
+  - A dedicated page (`/ui-page`) that accurately implements the provided Figma design.
+  - Fully responsive layout for desktop, tablet, and mobile devices.
+  - Clean and reusable component-based architecture.
+- **Smart Routing:** The root URL (`/`) automatically redirects users to the dashboard if logged in, or to the login page if not.
 
 ---
 
