@@ -7,6 +7,7 @@ A Next.js project for a technical evaluation.
 ### Live Demo
 **[ https://frontend-task-trendline-nextjs.vercel.app/ui-page ]**
 
+**Figma Design Link:** [ https://www.figma.com/design/LwAzcMC020tu1lX5CtK7La/Untitled?node-id=1-386 ]
 ---
 
 ##  Features
